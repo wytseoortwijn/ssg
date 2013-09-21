@@ -1,0 +1,2 @@
+-define(initial(), adding1:initial()).
+-define(next(S), adding1:next(S)).
